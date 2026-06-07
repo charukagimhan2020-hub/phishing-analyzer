@@ -4,7 +4,7 @@
 >
 > This project runs entirely inside the browser. No emails, attachments, or user data are transmitted, stored, or sent to external services. Zero API calls — fully offline.
 
-An interactive React-based cybersecurity tool that analyzes email content for phishing indicators using a **20-rule local heuristic engine**. Detects suspicious links, social engineering tactics, credential harvesting attempts, brand impersonation, typosquatting, and other common characteristics of phishing campaigns — with no backend, no API keys, and no internet dependency.
+An interactive React-based cybersecurity tool that analyzes email content for phishing indicators using a **20-rule local heuristic engine**. Detects suspicious links, social engineering tactics, credential harvesting attempts, brand impersonation, typosquatting, and other common characteristics of phishing campaigns - with no backend, no API keys, and no internet dependency.
 
 ---
 
@@ -20,7 +20,7 @@ Phishing emails remain one of the most effective cyberattack methods used to ste
 
 This tool allows users to paste email content and receive a detailed analysis highlighting suspicious elements commonly found in phishing campaigns.
 
-The analyzer runs a 20-rule detection engine entirely in the browser, producing instant risk scores, red flag breakdowns, and safe indicator summaries — with no external dependencies.
+The analyzer runs a 20-rule detection engine entirely in the browser, producing instant risk scores, red flag breakdowns, and safe indicator summaries - with no external dependencies.
 
 ---
 
